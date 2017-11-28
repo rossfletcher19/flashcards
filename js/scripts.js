@@ -1,4 +1,4 @@
-// https://jsfiddle.net/james2doyle/qsQun/
+// https://jsfiddle.net/james2doyle/qsQun/ for cool flashcard code
 
 $(document).ready(function() {
   $(".javascript").click(function() {
