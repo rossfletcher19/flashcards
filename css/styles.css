@@ -1,3 +1,22 @@
+.jumbotron {
+  background-image: url(../img/cards.jpg);
+  background-size: 100% 100%;
+  color: red;
+}
+
 h1 {
   text-align: center;
+}
+
+h3 {
+  text-align: center;
+}
+
+p {
+  display: none;
+  margin: 20px;
+}
+
+.panel {
+  background-color: #4cf7eb;
 }
